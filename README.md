@@ -1,4 +1,5 @@
-# Zomato-Projects
+# Zomato-Projects:-
+This Zomato project analyzes customer preferences by exploring restaurant types, customer ratings, and voting patterns. It identifies average spending by couples, compares online vs. offline rating trends, and highlights restaurant categories with higher offline orders. Insights help Zomato optimize offers, improve customer targeting, and enhance user experience based on real data.
 
 ## FUNCTION OF THIS PROJECTS:
 
